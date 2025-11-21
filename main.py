@@ -40,7 +40,6 @@ def crea_pdf(info, rutacss=''):
                 'margin-right': '0.75in',
                 'margin-bottom': '0.75in',
                 'margin-left': '0.75in',
-                'enable-local-file-access': None,
                 # 'footer-center': '[page] of [topage]',
                 # 'footer-line': '',
     }
